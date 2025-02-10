@@ -1,0 +1,18 @@
+<!-- page2.html -->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bucin Page 2</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Kamu Tau Gak? 🥰</h1>
+        <p>Aku tuh selalu kepikiran kamu, tiap hari, tiap detik! 💕</p>
+        <button class="next-btn" onclick="nextPage('page3.html')">Next 👉</button>
+    </div>
+</body>
+</html>
